@@ -1,0 +1,16 @@
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\bin\Debug\EFCERUD.exe.config
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\bin\Debug\EFCERUD.exe
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\bin\Debug\EFCERUD.pdb
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\bin\Debug\EntityFramework.dll
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\bin\Debug\EntityFramework.xml
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCRUD.csproj.AssemblyReference.cache
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCERUD.Form1.resources
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCERUD.Properties.Resources.resources
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCRUD.csproj.GenerateResource.cache
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCRUD.csproj.CoreCompileInputs.cache
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCRUD.csproj.CopyComplete
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCERUD.exe
+C:\Users\josaf\source\repos\EFCERUD\EFCERUD\obj\Debug\EFCERUD.pdb
